@@ -1,0 +1,241 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "7edb194e-d6e1-4d39-af92-210d9b9768d5")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 24.13 157.48)
+		(size 66.04 30.48)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "41a44589-e6f7-4240-8c0c-9203590ef38d")
+		(property "Sheetname" "power"
+			(at 24.13 156.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 24.13 188.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "geoBit"
+				(path "/7edb194e-d6e1-4d39-af92-210d9b9768d5"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 118.11)
+		(size 66.04 31.75)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "73039326-2b7d-4666-92cd-e7c248fa7581")
+		(property "Sheetname" "epaper"
+			(at 24.13 117.3984 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "epaper.kicad_sch"
+			(at 24.13 150.4446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "geoBit"
+				(path "/7edb194e-d6e1-4d39-af92-210d9b9768d5"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 24.13)
+		(size 66.04 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "8abcc423-6f94-4a03-8222-040edbcf1afa")
+		(property "Sheetname" "controller"
+			(at 24.13 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "controller.kicad_sch"
+			(at 24.13 62.8146 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "geoBit"
+				(path "/7edb194e-d6e1-4d39-af92-210d9b9768d5"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 24.13 72.39)
+		(size 66.04 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "aad3be64-b1c0-4226-858f-2c57e40893cd")
+		(property "Sheetname" "gps"
+			(at 24.13 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "gps.kicad_sch"
+			(at 24.13 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "geoBit"
+				(path "/7edb194e-d6e1-4d39-af92-210d9b9768d5"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 95.25 24.13)
+		(size 63.5 36.83)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c7256a50-3cd8-4d81-b845-24362b847b47")
+		(property "Sheetname" "sdcard"
+			(at 95.25 23.4184 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sdcard.kicad_sch"
+			(at 95.25 61.5446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "geoBit"
+				(path "/7edb194e-d6e1-4d39-af92-210d9b9768d5"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 96.52 72.39)
+		(size 60.96 33.02)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "c8be7d1a-80c3-45f4-8b56-8df92c013bd3")
+		(property "Sheetname" "mechanicals"
+			(at 96.52 71.6784 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "mechanicals.kicad_sch"
+			(at 96.52 105.9946 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "geoBit"
+				(path "/7edb194e-d6e1-4d39-af92-210d9b9768d5"
+					(page "7")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
