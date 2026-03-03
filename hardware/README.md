@@ -1,4 +1,22 @@
-## Hardware
+# Hardware
+
+### Controller
+[RP2354a](https://www.lcsc.com/product-detail/C41378174.html)
+
+### Battery charger
+[Injoinic IP5306-I2C](https://www.lcsc.com/product-detail/C488349.html)
+Provides 2.1A boosted output at 5V. Use I2C to set registers to prevent the chip from entering sleep mode and read battery charge status. 
+
+[Details of register settings](https://github.com/AvinasheeTech/IP5306_I2C)
+
+### SD card
+Uses SDIO (Four line) interface. The interface is protected with an [ST EMIF06-MSD02N16](https://www.lcsc.com/product-detail/C5267594.html?s_z=n_C5267594) chip
+
+### GPS
+[ATGM336H-6N-74](https://www.lcsc.com/product-detail/C5804601.html)
+
+### Screen
+[Good display GDEY0154D67](https://www.good-display.com/product/388.html)
 
 ### GPIO
 
