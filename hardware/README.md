@@ -27,8 +27,12 @@
 | GPIO_20 | EINK_D/C  | 	SIO  | |
 | GPIO_21 | EINK_RES  | 	SIO  | |
 | GPIO_22 | EINK_BUSY  | 	SIO  | |
-
-| GPIO_ |  | 	  | |
-| GPIO_3 | STATUS_LED  | 	SIO  | |
+| GPIO_23 | UNALLOCATED  | 	SIO  | |
+| GPIO_24 | UNALLOCATED  | 	SIO  | |
+| GPIO_25 | UNALLOCATED  | 	SIO  | |
+| GPIO_26 | UNALLOCATED  | 	SIO  | ADC |
+| GPIO_27 | UNALLOCATED  | 	SIO  | ADC |
+| GPIO_28 | UNALLOCATED  | 	SIO  | ADC |
+| GPIO_29 | UNALLOCATED  | 	SIO  | ADC |
 
 
